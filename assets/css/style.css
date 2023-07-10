@@ -1188,3 +1188,48 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+
+/* form */
+
+.formbox{
+  background-color:  rgba(255, 255, 255, 0.08);
+  width: 100%;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  padding-left: 10px;
+  margin-top: 20px;
+}
+.iname{
+  width: 40%;
+  height: 40px;
+}
+.imail{
+  height: 40px;
+  width: 100%;
+}
+.isubject{
+  height: 40px;
+  width: 100%;
+}
+.imessage{
+  height: 200px;
+  width: 100%;
+  text-align: start;
+}
+.label1{
+  margin-top: 30px;
+}
+.submitbtn{
+  margin-left: 180px;
+ 
+}
+.button1{
+  background-color: #00a6eb;
+  color: white;
+  margin-top: 30px;
+  height: 40px;
+  width: 200px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
